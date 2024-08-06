@@ -24,3 +24,7 @@ To integrate attributes.js into your project, follow these steps:
 1.	Download or clone the attributes.js file from GitHub.
 2.	Include the attributes.js script in the header or footer of your page.
 3.	Assign the class "attribute" to the input element you wish to validate.
+
+
+Example:
+![Code Example](https://github.com/BezaleelSolutions/attributes.js/blob/main/attributes.png)
